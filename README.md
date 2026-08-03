@@ -61,8 +61,8 @@ pipx install .
 ### Using the included installer
 
 ```bash
-git clone <repository-url>
-cd fcrypt-app
+git clone https://github.com/raees091/fcrypt
+cd fcrypt
 chmod +x install.sh
 ./install.sh
 ```
